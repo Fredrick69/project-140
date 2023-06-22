@@ -1,0 +1,32 @@
+body
+{
+
+}
+#footer{
+    background-color: burlywood;
+    line-height: 2;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading button{
+    float: right;
+
+}
+
+.modal-dialog
+{
+    width: 70%;
+}
+
+.modal-body
+{
+    text-align: left;
+    font-size: 20px;
+}
+
+.heading h3{
+    display:inline;
+}
